@@ -1,0 +1,1 @@
+#All the commands are saved here, index is odd-even sensitive
