@@ -1,0 +1,1 @@
+#User logs, (all commands entered are saved here until deleted)
