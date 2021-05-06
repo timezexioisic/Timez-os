@@ -25,4 +25,4 @@ if to_install_usr == "Y" or "y":
 	bash_file.write("\ncd " + main_location + "\n")
 	bash_file.write("\npython boot.py\n")
 	bash_file.close()
-	print("\nSuccessfully installed the pre-requirements for the Alpha version of Timez-os. [Optional] Use 'source ./bashrc' to refresh and load the OS.\n")
+	print("\nSuccessfully installed the pre-requirements for the Alpha version of Timez-os. [Optional] Re-open to refresh and load the OS.\n")
