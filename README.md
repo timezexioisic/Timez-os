@@ -1,5 +1,6 @@
 
-# Timez-os is a Python script by which you can run your scripts with custom slash commands.
+# Timez-os 
+## Python script by which you can run your scripts with custom slash commands. Mainly to be used in Termux.
 Language: Python.
 Current version: Alpha. 
 Libraries used: os, sys, threading, linecache, time, datetime, mechanicalsoup, BeautifulSoup.
